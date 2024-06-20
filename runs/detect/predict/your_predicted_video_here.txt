@@ -1,0 +1,2 @@
+you will get the video output after you run the yolo_inference.
+in that to get the best.pt you need to run the football_training.ipynb
