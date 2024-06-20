@@ -1,0 +1,10 @@
+SO here in the bounding box which is the box around the player objects detected 
+u can show it in terms of x,y,w,h x-y coordinate and width and height
+or u can also represent it in terms of x1,y1,x2,y2 where these points are the opposite points on the diagonal
+
+so here in initial runs the sports ball is not being detected I  need to make the  model better and it is detecting ppl out of the court so need to handle that too
+too much work bruhh
+
+
+now after training it to detect the  players refree and ball using the yolov5x model now change the boxes around the detected objects so that
+other things are visible and nothin is overlapping
